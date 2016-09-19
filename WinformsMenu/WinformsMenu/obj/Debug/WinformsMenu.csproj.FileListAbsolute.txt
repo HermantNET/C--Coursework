@@ -1,9 +1,0 @@
-C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\WinformsMenu\WinformsMenu\bin\Debug\WinformsMenu.exe.config
-C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\WinformsMenu\WinformsMenu\bin\Debug\WinformsMenu.exe
-C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\WinformsMenu\WinformsMenu\bin\Debug\WinformsMenu.pdb
-C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\WinformsMenu\WinformsMenu\obj\Debug\WinformsMenu.csprojResolveAssemblyReference.cache
-C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\WinformsMenu\WinformsMenu\obj\Debug\WinformsMenu.Form1.resources
-C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\WinformsMenu\WinformsMenu\obj\Debug\WinformsMenu.Properties.Resources.resources
-C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\WinformsMenu\WinformsMenu\obj\Debug\WinformsMenu.csproj.GenerateResource.Cache
-C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\WinformsMenu\WinformsMenu\obj\Debug\WinformsMenu.exe
-C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\WinformsMenu\WinformsMenu\obj\Debug\WinformsMenu.pdb
