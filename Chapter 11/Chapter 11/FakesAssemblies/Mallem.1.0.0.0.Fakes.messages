@@ -1,0 +1,4 @@
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 11\Chapter 11\Fakes\Mallem.fakes : warning : Cannot generate stub for Mallem.Convert.Grade: type is not visible to exported or assembly(Mallem.1.0.0.0.Fakes).
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 11\Chapter 11\Fakes\Mallem.fakes : warning : Cannot generate stub for Mallem.Money.ConvertToCoinAmount: type is not visible to exported or assembly(Mallem.1.0.0.0.Fakes).
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 11\Chapter 11\Fakes\Mallem.fakes : warning : Cannot generate shim for Mallem.Convert.Grade: type is not visible to exported or assembly(Mallem.1.0.0.0.Fakes).
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 11\Chapter 11\Fakes\Mallem.fakes : warning : Cannot generate shim for Mallem.Money.ConvertToCoinAmount: type is not visible to exported or assembly(Mallem.1.0.0.0.Fakes).

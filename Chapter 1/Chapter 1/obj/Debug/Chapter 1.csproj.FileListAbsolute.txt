@@ -1,0 +1,6 @@
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 1\Chapter 1\bin\Debug\Chapter 1.exe.config
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 1\Chapter 1\bin\Debug\Chapter 1.exe
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 1\Chapter 1\bin\Debug\Chapter 1.pdb
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 1\Chapter 1\obj\Debug\Chapter 1.csprojResolveAssemblyReference.cache
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 1\Chapter 1\obj\Debug\Chapter 1.exe
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 1\Chapter 1\obj\Debug\Chapter 1.pdb

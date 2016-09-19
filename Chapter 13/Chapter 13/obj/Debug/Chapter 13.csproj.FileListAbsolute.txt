@@ -1,0 +1,15 @@
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\bin\Debug\Chapter 13.exe.config
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\bin\Debug\Chapter 13.exe
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\bin\Debug\Chapter 13.pdb
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\obj\Debug\Chapter 13.csprojResolveAssemblyReference.cache
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\obj\Debug\Chapter_13.Exercises.Exercise_1.resources
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\obj\Debug\WinformsMenu.Title.resources
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\obj\Debug\Chapter_13.Properties.Resources.resources
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\obj\Debug\Chapter 13.csproj.GenerateResource.Cache
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\obj\Debug\Chapter 13.exe
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\obj\Debug\Chapter 13.pdb
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\obj\Debug\Chapter_13.Exercises.Exercise_2.resources
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\obj\Debug\Chapter_13.Exercises.Exercise_3.resources
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\obj\Debug\Chapter_13.Exercises.Exercise_4.resources
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\obj\Debug\Chapter_13.Exercises.Exercise_7.resources
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 13\Chapter 13\obj\Debug\Chapter_13.Exercises.Exercise_10.resources

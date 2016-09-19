@@ -1,0 +1,16 @@
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\bin\Debug\Chapter 14.exe.config
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\obj\Debug\Chapter 14.csprojResolveAssemblyReference.cache
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\obj\Debug\WinformsMenu.Title.resources
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\obj\Debug\Chapter_14.Properties.Resources.resources
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\obj\Debug\Chapter 14.csproj.GenerateResource.Cache
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\bin\Debug\Chapter 14.exe
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\bin\Debug\Chapter 14.pdb
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\obj\Debug\Chapter 14.exe
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\obj\Debug\Chapter 14.pdb
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\obj\Debug\Chapter_14.Exercises.Exercise_1.resources
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\obj\Debug\Chapter_14.Exercises.Exercise_2.resources
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\bin\Debug\Exercises\Databases\Ex1.sdf
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\obj\Debug\Chapter_14.Exercises.Exercise_3.resources
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\bin\Debug\Exercises\Databases\Ex7.sdf
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\obj\Debug\Chapter_14.Exercises.Exercise_7.resources
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Chapter 14\Chapter 14\obj\Debug\Chapter_14.Exercises.Exercise_8.resources

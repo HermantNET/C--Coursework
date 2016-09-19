@@ -1,0 +1,4 @@
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Mallem\Mallem\bin\Debug\Mallem.dll
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Mallem\Mallem\bin\Debug\Mallem.pdb
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Mallem\Mallem\obj\Debug\Mallem.dll
+C:\Users\studentAm\Documents\TEHJR\C#\Programming Excercises\Programs\Mallem\Mallem\obj\Debug\Mallem.pdb
